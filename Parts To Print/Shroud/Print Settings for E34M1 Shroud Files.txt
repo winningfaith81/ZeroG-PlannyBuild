@@ -1,0 +1,23 @@
+Print Settings for E34M1 Shroud Files
+
+*** Quantities: All files have a "x#" at the end of the name to denote the number of prints of the particular file. For this repository, all files should only be printed once!
+
+
+Shroud Printables Page: https://www.printables.com/model/420929-eva-30-chonky-shrouds-with-led-lighting
+
+
+
+Print settings:
+
+.stl are already print oriented.
+
+Recommended printing setting from EVA 3.0 - https://main.eva-3d.page/getting_started/#printing
+... Pulled from the linked page: 
+"As for print settings I made them work for up to a 0.5 nozzle, although you might need to enable thin walls detection in your slicer then printing with a 0.5 nozzle. Aside from that you want ~1mm of perimeters (i.e. 2 perimeters with a 0.55mm perimeter width, or 3 perimeters with a 0.45mm perimeter width). As for infill 15% is enough." 
+
+
+
+Zero G Diffuser: (Two pieces marked as white)
+Since this will be installed in an enclosed printer, I am told the best option is to print these two pieces in a white ABS/ASA as it will allow the LED to shine through. 
+
+"Since Zero G logo is more detailed, the whole logo assembly is inverted. The transparent diffuser parts are split into two so they can be printed without supports. However since the face (of base part) that is connected to supports is flat and is covered behind sheath it really doesn't matter and both parts (base + Zero G logo) can be combined and printed together."

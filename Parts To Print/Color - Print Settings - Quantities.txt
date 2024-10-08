@@ -1,0 +1,32 @@
+Color Preferences, Print Settings, and Quantities
+
+
+*** Quantities ***
+All files have a "x#" at the end of the name to denote the number of prints of the particular file. For the main repository, all single files should only be printed once!
+
+
+*** Color Preferences ***
+(a) - Files that start with this should be printed in Polymaker Teal (ABS).
+(m) - Files that start with this should be printed in a black (ABS).
+(white) - These files should be printed in a thin white (ABS) as they will be a light diffuser for an LED on the face of the toolhead shroud. 
+
+
+*** Print Settings *** 
+If there are specific print settings for a set of files, they will be included in a text file within that folder. 
+
+If no print settings are listed, please use the standard Zero G settings: 
+
+Printing Parts: https://docs.zerog.one/manual/print/abs
+Print Settings: https://docs.zerog.one/standard/print/settings
+
+...... Taken from the Website on 10/08/2024 ..........
+First layer height: 0.25mm (This is required. Our parts have been designed for this.)
+Layer height: 0.2mm
+Extrusion width: 0.4mm, forced
+Infill percentage: 40%
+Infill type: Adaptive Cubic, grid, gyroid, honeycomb, triangle, or cubic
+Wall count: 4
+Solid top/bottom layers: 5
+Seam placement: REAR
+This is important as we have seam relieve features that line up with the seam placement.
+Supports: NONE

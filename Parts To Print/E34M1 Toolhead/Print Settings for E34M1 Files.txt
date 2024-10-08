@@ -1,0 +1,21 @@
+Print Settings for E34M1 Files
+
+*** Quantities: All files have a "x#" at the end of the name to denote the number of prints of the particular file. For this repository, all files except the Belt Grabber should only be printed once! The Belt Grabber file should be printed twice.
+
+
+These are the same as the Zero G overall print settings: 
+
+Printing Parts: https://docs.zerog.one/manual/print/abs
+Print Settings: https://docs.zerog.one/standard/print/settings
+
+...... Taken from the Website on 10/08/2024 ..........
+First layer height: 0.25mm (This is required. Our parts have been designed for this.)
+Layer height: 0.2mm
+Extrusion width: 0.4mm, forced
+Infill percentage: 40%
+Infill type: Adaptive Cubic, grid, gyroid, honeycomb, triangle, or cubic
+Wall count: 4
+Solid top/bottom layers: 5
+Seam placement: REAR
+This is important as we have seam relieve features that line up with the seam placement.
+Supports: NONE
